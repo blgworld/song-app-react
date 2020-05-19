@@ -1,0 +1,40 @@
+.All-1 {
+    position: absolute;
+    width: 15em;
+    height: 35em;
+    margin-top: -35em;
+    right: 3em;
+    text-align: center;
+    padding: 2em 0em;
+    background-color: rgb(76, 20, 141);
+    border-radius: 25px;
+
+}
+
+h1 a {
+    color: white;
+    cursor: pointer;
+
+}
+
+.mini-gif-1,
+.mini-gif-2,
+.mini-gif-3 {
+    margin: 0 1em;
+
+    height: 5em;
+    width: auto;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+
+.anchors {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+    padding: 2em 0em;
+    cursor: default;
+}
